@@ -1,0 +1,1 @@
+class project to practuce using ajax by making a gif application with the giphy api
